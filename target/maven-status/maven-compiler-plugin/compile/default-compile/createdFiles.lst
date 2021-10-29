@@ -1,0 +1,9 @@
+egg\estancias\EstanciasMain.class
+entidades\Estancia.class
+persistencia\Conexion.class
+entidades\Familia.class
+persistencia\FamiliaDAO.class
+entidades\Cliente.class
+entidades\Comentario.class
+interfaces\IDao.class
+entidades\Casa.class
